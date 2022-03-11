@@ -49,7 +49,7 @@
                         <div class="service-item-product rounded">
                             <div class="p-2 content-catalog">
                                 <div class="section-image">
-                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LFL177NEW.png">
+                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LFL177.png">
                                 </div>
                                 <div class="info-product">
                                     <h5>LFL177 - 295/80R22,5</h5>
@@ -75,7 +75,7 @@
                         <div class="service-item-product rounded">
                             <div class="p-2 content-catalog">
                                 <div class="section-image">
-                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LLF02NEW.png">
+                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LLF02.png">
                                 </div>
                                 <div class="info-product">
                                     <h5>LLF02 - 295/80R22,5</h5>
@@ -132,7 +132,7 @@
                         <div class="service-item-product rounded">
                             <div class="p-2 content-catalog">
                                 <div class="section-image">
-                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LLF01NEW.png">
+                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LLF01.png">
                                 </div>
                                 <div class="info-product">
                                     <h5>LLF01 - 275/80R22,5</h5>
@@ -153,7 +153,7 @@
                             <div class="service-item-product rounded">
                                 <div class="p-2 content-catalog">
                                     <div class="section-image">
-                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/FL300NEW.png">
+                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/FL300.png">
                                     </div>
                                     <div class="info-product">
                                         <h5>FL300 360-45 R22,5</h5>
@@ -166,7 +166,7 @@
                             <div class="service-item-product rounded">
                                 <div class="p-2 content-catalog">
                                     <div class="section-image">
-                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LR861NEW.png">
+                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LR861.png">
                                     </div>
                                     <div class="info-product">
                                         <h5>LR861 320/90 R46</h5>
@@ -179,7 +179,7 @@
                             <div class="service-item-product rounded">
                                 <div class="p-2 content-catalog">
                                     <div class="section-image">
-                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LL31NEW.png">
+                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LL31.png">
                                     </div>
                                     <div class="info-product">
                                         <h5>LL31 7.50/R16</h5>
@@ -192,7 +192,7 @@
                             <div class="service-item-product rounded">
                                 <div class="p-2 content-catalog">
                                     <div class="section-image">
-                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LL31NEW.png">
+                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LL31.png">
                                     </div>
                                     <div class="info-product">
                                         <h5>LL31 6.50/R16</h5>
