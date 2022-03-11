@@ -45,7 +45,7 @@
                 </div>
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <div class="container-pdf fadeInUp">
-                        <object class="pdfView fadeInUp" type="application/pdf" data="pdf/garantia.pdf"></object>
+                        <object class="pdfView fadeInUp" type="application/pdf" data="pdf/Garantia.pdf"></object>
                     </div>
                 </div>
             </div>

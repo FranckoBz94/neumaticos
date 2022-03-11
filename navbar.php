@@ -11,12 +11,12 @@
             <a href="nosotros.php" class="nav-item nav-link">Quienes somos</a>
             <a href="productos.php" class="nav-item nav-link">Productos</a>
             <a href="promociones.php" class="nav-item nav-link">Promociones</a>
-            <a href="contact.html" class="nav-item nav-link">Registra tu Neumático</a>
+            <a href="index.php" class="nav-item nav-link">Registra tu Neumático</a>
             <a href="garantia.php" class="nav-item nav-link">Garantía</a>
             <a href="catalogo.php" class="nav-item nav-link">Catálogo</a>
             <a href="mantenimiento.php" class="nav-item nav-link">Usos y mantenimiento</a>
             <a href="contacto.php" class="nav-item nav-link">Contacto</a>
-            <a href="contact.html" class="nav-item nav-link">Registrate </a>
+            <a href="index.php" class="nav-item nav-link">Registrate </a>
             <a href="pagos.php" class="nav-item nav-link">Pagos</a>
         </div>
     </div>
