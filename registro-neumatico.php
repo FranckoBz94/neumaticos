@@ -22,12 +22,12 @@
 
             <div class="container-xxl py-5 bg-dark hero-header mb-5">
                 <div class="container text-center my-5 pt-5 pb-4">
-                    <h1 class="display-3 text-white mb-3 animated slideInDown">Productos</h1>
+                    <h1 class="display-3 text-white mb-3 animated slideInDown">Registrate como cliente</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center text-uppercase">
                             <li class="breadcrumb-item"><a href="#">Inicio</a></li>
                             <li class="breadcrumb-item"><a href="#">Paginas</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page">Garantía</li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">Registro de neumático</li>
                         </ol>
                     </nav>
                 </div>
@@ -42,16 +42,11 @@
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h5 class="section-title ff-secondary text-center text-primary fw-normal">Neumáticos</h5>
                 </div>
-                <h1 class="mb-3 mt-5 text-center wow fadeInUp">Planilla de reclamos</h1>
-                <div class="fadeInUp wow pb-5" data-wow-delay="0.1s">
+                <h1 class="mb-3 mt-5 text-center wow fadeInUp">Registrar un neumático</h1>
+                <h6 class="text-center wow fadeInUp">Si desea registrar un neumático comuniquese con nosotros por medio de Whatsapp a travez del siguiente botón</h6>
+                <div class="fadeInUp wow pb-5 pt-2" data-wow-delay="0.1s">
                     <div class="container-catalog fadeInUp fw-normal">
-                        <a class="btn btn-primary py-3 px-5 mt-2 fw-normal" href="pdf/FormularioReclamos.pdf" download="FormularioReclamo.pdf">Descargar<i class="fa fa-solid fa-arrow-down px-2"></i></a>
-                    </div>
-                </div>
-                <h1 class="my-5 text-center wow fadeInUp">Garantía</h1>
-                <div class="wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="container-pdf fadeInUp">
-                        <object class="pdfView fadeInUp" type="application/pdf" data="pdf/Garantia.pdf" width="100%" height="800px"></object>
+                        <a class="btn btn-primary py-3 px-5 mt-2 fw-normal" href="https://api.whatsapp.com/send?phone=542994048604" target="_blank">Ir a WhatsApp<i class="fa-brands fa-whatsapp mx-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -74,6 +69,8 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 </body>
 
 </html>

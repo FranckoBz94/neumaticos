@@ -22,12 +22,12 @@
 
             <div class="container-xxl py-5 bg-dark hero-header mb-5">
                 <div class="container text-center my-5 pt-5 pb-4">
-                    <h1 class="display-3 text-white mb-3 animated slideInDown">Productos</h1>
+                    <h1 class="display-3 text-white mb-3 animated slideInDown">Registrate como cliente</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center text-uppercase">
                             <li class="breadcrumb-item"><a href="#">Inicio</a></li>
                             <li class="breadcrumb-item"><a href="#">Paginas</a></li>
-                            <li class="breadcrumb-item text-white active" aria-current="page">Garantía</li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">Registro</li>
                         </ol>
                     </nav>
                 </div>
@@ -42,16 +42,11 @@
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h5 class="section-title ff-secondary text-center text-primary fw-normal">Neumáticos</h5>
                 </div>
-                <h1 class="mb-3 mt-5 text-center wow fadeInUp">Planilla de reclamos</h1>
-                <div class="fadeInUp wow pb-5" data-wow-delay="0.1s">
+                <h1 class="mb-3 mt-5 text-center wow fadeInUp">Registrate</h1>
+                <h6 class="text-center wow fadeInUp">Descargue el siguiente formulario y envielo a info@martiarenahnos.com.ar</h6>
+                <div class="fadeInUp wow pb-5 pt-2" data-wow-delay="0.1s">
                     <div class="container-catalog fadeInUp fw-normal">
-                        <a class="btn btn-primary py-3 px-5 mt-2 fw-normal" href="pdf/FormularioReclamos.pdf" download="FormularioReclamo.pdf">Descargar<i class="fa fa-solid fa-arrow-down px-2"></i></a>
-                    </div>
-                </div>
-                <h1 class="my-5 text-center wow fadeInUp">Garantía</h1>
-                <div class="wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="container-pdf fadeInUp">
-                        <object class="pdfView fadeInUp" type="application/pdf" data="pdf/Garantia.pdf" width="100%" height="800px"></object>
+                        <a class="btn btn-primary py-3 px-5 mt-2 fw-normal" href="#" download="#">Descargar formulario<i class="fa fa-solid fa-arrow-down px-2"></i></a>
                     </div>
                 </div>
             </div>
