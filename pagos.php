@@ -38,32 +38,50 @@
 
         <!-- Service Start -->
         <div class=" py-5">
-            <div class="container">
+            <div class="container mb-5">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h5 class="section-title ff-secondary text-center text-primary fw-normal">Neumáticos</h5>
-                    <h1 class="mb-5">Medios de Pago</h1>
+                    <h2 class="mb-2">Medios de Pago</h2>
+                    <hr class="line-title mb-3">
                 </div>
                 <div class="row spacing wow fadeInUp" data-wow-delay="0.1s" >
-                    <div class="col-md-4 col-sm-12 my-2">
-                        <div class="card d-block card-payment">
+                    <div class="col-md-4 col-sm-12 my-3">
+                        <div class=" d-block card-payment">
                             <div class="info-card">
                                 <i class="fa-solid fa-arrow-right-arrow-left px-3"></i><h4 class="m-0">Transferencia</h4> 
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-12 my-2">
-                        <div class="card d-block card-payment">
-                            <div class="info-card">
-                                <i class="fa-solid fa-money-bill px-3"></i><h4 class="m-0">E-cheq</h4> 
+                    <div class="col-md-4 col-sm-12 my-3 border-pago">
+                        <div class=" d-block card-payment">
+                            <div class="info-card border-left">
+                                <i class="fa-solid fa-money-bill px-3"></i><h4 class="m-0">E-cheq o cheque</h4> 
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-12 my-2">
-                        <div class="card d-block card-payment">
-                            <div class="info-card">
+                    <div class="col-md-4 col-sm-12 my-3 border-pago">
+                        <div class=" d-block card-payment">
+                            <div class="info-card border-left">
                                 <i class="fa fa-credit-card px-3" aria-hidden="true"></i><h4 class="m-0">Tarjetas de creditos</h4> 
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container pt-5">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h2 class="mb-2">Formas de envío</h2>
+                    <hr class="line-title mb-3">
+                </div>
+                <div class="row spacing wow fadeInUp" data-wow-delay="0.1s" >
+                    <div class="col-md-4 col-sm-12 my-2 col-img-envio">
+                        <img src="./img/via-cargo.png" alt="" class="img-envio"/>
+                    </div>
+                    <div class="col-md-4 col-sm-12 my-2 col-img-envio">
+                        <img src="./img/andreani.png" alt="" class="img-envio"/>
+                    </div>
+                    <div class="col-md-4 col-sm-12 my-2 col-img-envio oca">
+                        <img src="./img/oca.png" alt="" class="img-envio"/>
                     </div>
                 </div>
             </div>
@@ -73,20 +91,7 @@
     </div>
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/tempusdominus/js/moment.min.js"></script>
-    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
-
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <?php include("scripts.php") ?>
 </body>
 
 </html>

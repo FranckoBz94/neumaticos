@@ -39,29 +39,55 @@
         <!-- About Start -->
         <div class="container-xxl py-5">
             <div class="container">
-                <h1 class="text-center">Sobre Nosotros</h1>
+                <h1 class="text-center animated slideInUp">Sobre Nosotros</h1>
+                <hr class="line-title">
+                <div class="row align-items-center section-nosotros">  
+                    <div class="col-lg-12 text-center text-lg-start pt-4">
+                        <p class="item-nosotros animated slideInLeft my-4 pb-2">Nos dedicamos a la venta al por mayor de neumáticos para la industria, agricultura, transporte y 
+                            construcción. Ofrecemos una una amplia gama de neumáticos para camiones, llantas de acero para camiones, neumáticos para autobuses, neumáticos para 
+                            tractores, neumáticos para máquinas viales, neumáticos industriales y neumáticos especiales a precios favorables para todas las áreas de aplicación en 
+                            el sector de vehículos comerciales.</p>
+                    </div>
+                    <h5 class="title-nosotros my-2 animated slideInUp">Nuestros productos destacados para neumáticos de camiones y neumáticos de vehículos comerciales incluyen:</h5>
+                    <div class="col-lg-12 animated slideInRight container-prod-destacados">
+                        <div class="d-flex align-items-center">
+                            <p class="item-nosotros-destacados my-0"></p>
+                            <h6 class="my-1 item-nosotros-info">Neumáticos para tráfico de carga, tránsito de pasajeros,  tránsito   de obra, Tránsito  de distribución o  tránsito  de larga distancia.</h6>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <p class="item-nosotros-destacados my-0"></p>
+                            <h6 class="my-1 item-nosotros-info">Amplia selección de marcas premium: Ling Long, Triangle, Zetum, Kumho Michelin, Bridgestone, Continental, Austone, Goodyear, Hankook, Fate, Pirelli.</h6>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <p class="item-nosotros-destacados my-0"></p>
+                            <h6 class="my-1 item-nosotros-info">Venta directa de la marca de calidad LINGLONG.</h6>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <p class="item-nosotros-destacados my-0"></p>
+                            <h6 class="my-1 item-nosotros-info">Envío gratis a partir de 12 neumáticos.</h6>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <p class="item-nosotros-destacados my-0"></p>
+                            <h6 class="my-1 item-nosotros-info">Llantas de acero para camiones a pedido.</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 py-5 animated slideInLeft">
+                        <p class="item-nosotros-calidad">Si está buscando alta <b>calidad</b>, buena <b>disponibilidad</b>, <b>precios atractivos</b> y plazos de entrega cortos, entonces está en buenas manos.</p>
+                    </div>
+                    <div class="col-lg-12 text-center overflow-hidden ">
+                        <img class="img-fluid img-linglong animated slideInDown" src="img/linglong.svg" alt="">
+                    </div>
+                </div>
             </div>
         </div>
         <!-- Team End -->
         <?php include("footer.php") ?>
         <!-- Back to Top -->
-        <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+        <a href="https://api.whatsapp.com/send?phone=542994048604" target="_blank" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="fa-brands fa-whatsapp fa-2x text-primary icon-wpp m-auto"></i></a>
     </div>
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/tempusdominus/js/moment.min.js"></script>
-    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
-
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <?php include("scripts.php") ?>
 </body>
 
 </html>

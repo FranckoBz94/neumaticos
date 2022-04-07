@@ -53,7 +53,7 @@
                                 </div>
                                 <div class="info-product">
                                     <h5>LFL177 - 295/80R22,5</h5>
-                                    <p>Rodados 295/80R22,5 Lineal y Tracció</p>
+                                    <p>Rodados 295/80R22,5 Lineal y Tracción</p>
                                 </div>
                             </div>
                         </div>
@@ -66,7 +66,7 @@
                                 </div>
                                 <div class="info-product">
                                     <h5>F860+ - 295/80R22,5</h5>
-                                    <p>Rodados 295/80R22,5 Lineal y Tracció</p>
+                                    <p>Rodados 295/80R22,5 Lineal y Tracción</p>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +79,7 @@
                                 </div>
                                 <div class="info-product">
                                     <h5>LLF02 - 295/80R22,5</h5>
-                                    <p>Rodados 295/80R22,5 Lineal y Tracció</p>
+                                    <p>Rodados 295/80R22,5 Lineal y Tracción</p>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +92,7 @@
                                 </div>
                                 <div class="info-product">
                                     <h5>LFL827 - 295/80R22,5</h5>
-                                    <p>Rodados 295/80R22,5 Lineal y Tracció</p>
+                                    <p>Rodados 295/80R22,5 Lineal y Tracción</p>
                                 </div>
                             </div>
                         </div>
@@ -101,24 +101,11 @@
                         <div class="service-item-product rounded">
                             <div class="p-2 content-catalog">
                                 <div class="section-image">
-                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/D905.png">
+                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/ETS200.png">
                                 </div>
                                 <div class="info-product">
-                                    <h5>D905 - 295/80R22,5</h5>
-                                    <p>Rodados 295/80R22,5 Lineal y Tracció</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="service-item-product rounded">
-                            <div class="p-2 content-catalog">
-                                <div class="section-image">
-                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/D905.png">
-                                </div>
-                                <div class="info-product">
-                                    <h5>ETS 200 - 295/80R22,5 NO ESTA</h5>
-                                    <p>Rodados 295/80R22,5 Lineal y Tracció</p>
+                                    <h5>ETS 200 - 295/80R22,5</h5>
+                                    <p>Rodados 295/80R22,5 Lineal y Tracción</p>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +115,7 @@
             <div class="container">
                 <div class="row g-4">
                     <h5 class="wow fadeInUp text-center py-5" data-wow-delay="0.1s">Rodado 275/80R22,5 Lineal y Tracción</h5>
-                    <div class="col-lg-6 col-md-12 wow fadeInUp m-auto" data-wow-delay="0.1s">
+                    <div class="col-lg-6 col-md-12 wow fadeInUp " data-wow-delay="0.1s">
                         <div class="service-item-product rounded">
                             <div class="p-2 content-catalog">
                                 <div class="section-image">
@@ -141,15 +128,29 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-6 col-md-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="service-item-product rounded">
+                            <div class="p-2 content-catalog">
+                                <div class="section-image">
+                                    <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/D905.png">
+                                </div>
+                                <div class="info-product">
+                                    <h5>D905 - 275/80R22,5</h5>
+                                    <p>Rodados 275/80R22,5 Lineal y Tracción</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container py-5">
                 <div class="row g-4">
-                    <div class="text-center wow fadeInUp pt-5" data-wow-delay="0.1s">
-                        <h1 class="mb-5"> Neumáticos Rurales, Viales</h1>
+                    <div class="text-center wow fadeInUp pt-5 mb-5" data-wow-delay="0.1s">
+                        <h1 > Neumáticos Rurales y Viales</h1>
+                        <h1 >a pedido</h1>
                     </div>
                     <div class="row g-4">
-                        <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item-product rounded">
                                 <div class="p-2 content-catalog">
                                     <div class="section-image">
@@ -162,7 +163,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item-product rounded">
                                 <div class="p-2 content-catalog">
                                     <div class="section-image">
@@ -175,7 +176,20 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="service-item-product rounded">
+                                <div class="p-2 content-catalog">
+                                    <div class="section-image">
+                                        <img class="img-fluid rounded wow zoomIn image-catalog" data-wow-delay="0.1s" src="img/catalogo/LR861.png">
+                                    </div>
+                                    <div class="info-product">
+                                        <h5>LR861 320/90 R36</h5>
+                                        <p>Neumáticos de Maquinaria Agricola e implementos</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item-product rounded">
                                 <div class="p-2 content-catalog">
                                     <div class="section-image">
@@ -188,7 +202,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item-product rounded">
                                 <div class="p-2 content-catalog">
                                     <div class="section-image">
@@ -209,19 +223,7 @@
     </div>
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/tempusdominus/js/moment.min.js"></script>
-    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
-
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <?php include("scripts.php") ?>
 </body>
 
 </html>

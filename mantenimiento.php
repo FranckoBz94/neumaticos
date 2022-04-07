@@ -34,14 +34,24 @@
         </div>
         <!-- Navbar & Hero End -->
 
+        
+
         <!-- Service Start -->
         <div class=" py-5">
             <div class="container">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h5 class="section-title ff-secondary text-center text-primary fw-normal">Neumáticos</h5>
-                    <h1 class="mb-5">Mantenimiento</h1>
+                </div>
+                <div class="container py-4">
+                    <h5 class="animated fadeInUp wow text-center ">Si desea descargar el manual de fallas haga click aquí</h5>
+                    <div class="animated fadeInUp wow pb-5 pt-2" data-wow-delay="0.1s">
+                        <div class="container-catalog fadeInUp fw-normal">
+                            <a class="btn btn-primary py-3 px-5 mt-2 fw-normal" href="pdf/ManualdeFallas.pdf" download="ManualDeFallas.pdf">Descargar Manual<i class="fa fa-solid fa-arrow-down px-2"></i></a>
+                        </div>
+                    </div>
                 </div>
                 <div class="fadeInUp wow" data-wow-delay="0.1s">
+                    <h1 class="mb-5 text-center">Mantenimiento</h1>
                     <div class="row fadeInUp fw-normal">
                         <div class="col-md-12">
                             <div class="mb-4">
@@ -391,19 +401,7 @@
     </div>
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/tempusdominus/js/moment.min.js"></script>
-    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
-
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <?php include("scripts.php") ?>
 </body>
 
 </html>

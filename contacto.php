@@ -22,11 +22,11 @@
 
             <div class=" py-5 bg-dark hero-header mb-5">
                 <div class="container text-center my-5 pt-5 pb-4">
-                    <h1 class="display-3 text-white mb-3 animated slideInDown">Contact Us</h1>
+                    <h1 class="display-3 text-white mb-3 animated slideInDown">Contacto</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center text-uppercase">
                             <li class="breadcrumb-item"><a href="#">Inicio</a></li>
-                            <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                            <li class="breadcrumb-item"><a href="#">Página</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Contacto</li>
                         </ol>
                     </nav>
@@ -44,20 +44,26 @@
                     <h1 class="mb-5">Póngase en contacto con nosotros</h1>
                 </div>
                 <div class="row g-4"> 
-                    <div class="col-md-8 col-sm-12">
+                    <div class="col-md-9 col-sm-12">
                         <div class="wow fadeInUp" data-wow-delay="0.2s">
                             <form>
                                 <div class="row g-3">
-                                    <div class="col-md-6">
+                                    <div class="col-md-4">
                                         <div class="form-floating">
-                                            <input type="text" class="form-control" id="name" placeholder="Nombre">
-                                            <label for="name">Nombre</label>
+                                            <input type="text" class="form-control" id="name" placeholder="Nombre y apellido">
+                                            <label for="name">Nombre y Apellido</label>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-4">
                                         <div class="form-floating">
                                             <input type="email" class="form-control" id="email" placeholder="Email">
                                             <label for="email">Email</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-floating">
+                                            <input type="cel" class="form-control" id="cel" placeholder="Celular">
+                                            <label for="cel">Celular</label>
                                         </div>
                                     </div>
                                     <div class="col-12">
@@ -73,7 +79,7 @@
                             </form>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-md-3 col-sm-12">
                         <div class="row wow fadeInUp data-contact " data-wow-delay="0.2s">
                             <div class="col-md-12 text-center w-100 card card-email">
                                 <a href="mailto:info@martiarenahnos.com.ar" target="_blank" class="">
@@ -87,7 +93,7 @@
                                 <a href="https://api.whatsapp.com/send?phone=542994048604" target="_blank" class="">
                                     <div>
                                         <h5 class="ff-secondary text-center text-primary fw-normal">Whatsapp</h5>
-                                        <p><i class="fa-brands fa-whatsapp text-primary me-2"></i>+54123456789</p>
+                                        <p class="d-flex align-items-center"><i class="fa-brands fa-whatsapp fa-2x text-primary me-2 icon-wpp"></i>+54 2994048604</p>
                                     </div>
                                 </a>
                             </div>
