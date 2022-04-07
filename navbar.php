@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-xl navbar-dark px-4 px-lg-5 py-3 py-lg-3 py-xl-0">
+<nav class="navbar navbar-expand-xl navbar-dark bg-white px-4 px-lg-5 py-3 py-lg-3 py-xl-0">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span class="fa fa-bars"></span>
     </button>

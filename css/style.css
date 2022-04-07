@@ -123,6 +123,10 @@
   filter: drop-shadow(0px 0px 1px rgba(0 0 0));
 }
 
+.navbar {
+  background: #ffffff !important;
+}
+
 @media (max-width: 1201px) {
   .sticky-top.navbar-dark {
     position: relative;
@@ -617,7 +621,7 @@
 
 .bg-new {
   padding-top: 58px;
-  background: url(../img/catalogo/bg-content.png) repeat-x left top #fff;
+  /* background: url(../img/catalogo/bg-content.png) repeat-x left top #fff; */
 }
 
 .section-image {
